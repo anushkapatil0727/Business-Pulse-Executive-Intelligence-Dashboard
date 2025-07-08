@@ -139,8 +139,8 @@ python scripts/data_cleaning_and_analysis.py
 ## 👩‍💻 Author
 
 Anushka Patil
-Data Analyst | Python | SQL | Tableau | Power BI
-[LinkedIn Profile](https://www.linkedin.com/in/anushka-patil)
+Data Analyst | Python | SQL | Data Cleaning | Data Wrangling 
+[LinkedIn Profile](https://www.linkedin.com/in/anushkapatil272000/)
 
 ---
 
